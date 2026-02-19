@@ -1,0 +1,13 @@
+product_id,product_name,product_category,criticality,revenue_per_unit
+82158,Corrugated Box,Packaging,High,312.68
+24395,Plastic Container,Packaging,Medium,233.93
+95673,Steel Rod,Raw Material,High,377.88
+67273,Aluminium Sheet,Raw Material,High,273.61
+89752,Electronic Sensor,Electronics,High,313.08
+40433,Wiring Harness,Electronics,Medium,235.54
+78378,Gear Assembly,Mechanical,High,186.1
+21317,Bearing Unit,Mechanical,Medium,319.37
+78069,Fasteners,Mechanical,Low,235.58
+16209,Labels,Packaging,Low,218.32
+77830,Adhesive,Raw Material,Medium,250.23
+88434,Control Module,Electronics,High,280.54

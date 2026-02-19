@@ -1,0 +1,29 @@
+vendor_id,vendor_name,vendor_type,category,city,state,country,avg_unit_cost,max_monthly_capacity,contract_type
+924197,Apex Industries,Logistics,Raw Material,Delhi,Delhi,India,179.74,80000,Spot
+562958,BlueRiver Supplies,Manufacturer,Raw Material,Gurgaon,Haryana,India,85.35,50000,Long-term
+381632,Crestline Manufacturing,Manufacturer,Packaging,Hyderabad,Telangana,India,192.63,200000,Long-term
+363028,Delta Logistics,Logistics,Raw Material,Delhi,Delhi,India,77.03,200000,Long-term
+176588,Evergreen Materials,Manufacturer,Raw Material,Surat,Gujarat,India,115.34,120000,Spot
+360610,Falcon Traders,Logistics,Packaging,Delhi,Delhi,India,145.32,200000,Long-term
+313802,Granite Works,Manufacturer,Packaging,Coimbatore,Tamil Nadu,India,71.37,50000,Long-term
+938521,Horizon Packaging,Logistics,Electronics,Noida,Uttar Pradesh,India,146.52,200000,Long-term
+328815,Indus Components,Manufacturer,Raw Material,Delhi,Delhi,India,59.42,120000,Spot
+674253,Jetline Freight,Logistics,Raw Material,Gurgaon,Haryana,India,141.82,80000,Long-term
+547239,Keystone Corp,Logistics,Electronics,Chennai,Tamil Nadu,India,233.05,50000,Long-term
+492904,Lighthouse Goods,Manufacturer,Raw Material,Pune,Maharashtra,India,151.08,120000,Long-term
+140937,Metro Industrial,Manufacturer,Raw Material,Mysuru,Karnataka,India,145.31,120000,Spot
+512461,Nova Suppliers,Manufacturer,Mechanical,Mysuru,Karnataka,India,215.79,80000,Long-term
+307937,Orion Exports,Logistics,Raw Material,Mumbai,Maharashtra,India,216.59,80000,Spot
+187821,Pinnacle Manufacturing,Manufacturer,Packaging,Bengaluru,Karnataka,India,228.17,200000,Long-term
+736402,Quantum Logistics,Logistics,Raw Material,Bhubaneswar,Odisha,India,73.95,120000,Spot
+781209,Riviera Materials,Manufacturer,Packaging,Coimbatore,Tamil Nadu,India,52.31,120000,Spot
+720230,Summit Traders,Logistics,Raw Material,Noida,Uttar Pradesh,India,40.4,80000,Long-term
+912391,Titan Industries,Manufacturer,Packaging,Noida,Uttar Pradesh,India,168.69,50000,Spot
+118675,Unity Packaging,Manufacturer,Raw Material,Jaipur,Rajasthan,India,76.72,50000,Long-term
+302361,Vertex Components,Distributor,Packaging,Bengaluru,Karnataka,India,138.63,80000,Long-term
+853594,Westwind Logistics,Manufacturer,Electronics,Bengaluru,Karnataka,India,182.99,200000,Spot
+522606,Xcel Traders,Logistics,Raw Material,Indore,Madhya Pradesh,India,128.06,120000,Long-term
+690831,Yellowstone Manufacturing,Manufacturer,Raw Material,Hyderabad,Telangana,India,53.9,50000,Long-term
+640867,Zenith Supplies,Manufacturer,Packaging,Ahmedabad,Gujarat,India,175.83,50000,Long-term
+301108,Atlas Corp,Manufacturer,Raw Material,Jaipur,Rajasthan,India,211.11,200000,Long-term
+165878,Bayshore Industrial,Manufacturer,Raw Material,Nagpur,Maharashtra,India,22.71,200000,Spot

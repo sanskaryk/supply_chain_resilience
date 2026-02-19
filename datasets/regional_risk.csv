@@ -1,0 +1,13 @@
+state,region_risk_score,dominant_disruption_type,infrastructure_rating
+Maharashtra,0.51,Strike,Low
+Gujarat,0.3,Power Outage,Low
+Tamil Nadu,0.55,None,High
+Karnataka,0.44,Strike,Medium
+Telangana,0.66,Strike,High
+Delhi,0.64,None,Low
+Haryana,0.18,Strike,High
+Uttar Pradesh,0.23,Power Outage,Low
+West Bengal,0.46,Strike,High
+Rajasthan,0.44,Flood,High
+Madhya Pradesh,0.43,Strike,Low
+Odisha,0.52,None,Low
