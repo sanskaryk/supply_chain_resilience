@@ -5,6 +5,8 @@ An end-to-end analytics project designed to monitor vendor performance, identify
 **Tools Used:**
 SQL | Python (Pandas, EDA) | Power BI | DAX
 
+Live Dashboard - https://bit.ly/4qUgkle
+
 ---
 
 ## 📌 Business Problem
