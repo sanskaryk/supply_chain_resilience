@@ -79,6 +79,8 @@ This structured pipeline ensures accuracy, reproducibility, and business relevan
 
 Purpose: Identify performance variation and supplier concentration risk.
 
+<img width="1335" height="761" alt="page 1" src="https://github.com/user-attachments/assets/d88deb1f-b435-48f8-b79b-e2dfd22000de" />
+
 ---
 
 ### 🟡 Page 2: Risk & Dependency Assessment
@@ -90,6 +92,8 @@ Purpose: Identify performance variation and supplier concentration risk.
 
 Purpose: Detect high-risk vendors contributing to operational instability.
 
+<img width="1331" height="765" alt="page 2" src="https://github.com/user-attachments/assets/9885de04-6f1f-46a7-9181-be3e7edc16a7" />
+
 ---
 
 ### 🔵 Page 3: Vendor Performance Benchmarking
@@ -100,6 +104,8 @@ Purpose: Detect high-risk vendors contributing to operational instability.
 * Best & Worst Performing Vendors
 
 Purpose: Benchmark suppliers and support performance-driven sourcing decisions.
+
+<img width="1335" height="759" alt="page 3" src="https://github.com/user-attachments/assets/a0e938bb-6ef0-46ff-a24b-e0bf11a480cb" />
 
 ---
 
