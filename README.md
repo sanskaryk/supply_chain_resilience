@@ -180,7 +180,7 @@ The score enables standardized vendor comparison and ranking for procurement dec
 
 ## 📎 Live Dashboard
 
-[Add your Power BI Service link here]
+https://bit.ly/4qUgkle
 
 ---
 
